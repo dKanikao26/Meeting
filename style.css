@@ -47,14 +47,14 @@ outline: none !important;
     background-image:linear-gradient(to right,#99badd,#00bfff) ;
     color:#fff;
     padding-top:5%;
-    z-index:500;
+    
 }
 .title
 {
     padding-top: 0;
     font-size:50px;
     font-weight:600;
-    margin-top:100px;
+    
 
 }
 .play-btn
@@ -65,18 +65,18 @@ outline: none !important;
 #banner a{
     color:#fff;
     text-decoration: none;
+    height:1000px;
 }
-.im
+#im
 {
-    display:flex;
-    
-    margin-left: 900px;
-    top:0px;
+    border-radius: 50%;
     
 }
 .par
 {
     font-size: 20px;
+    padding-bottom: 30px;
+    
 }
 #features
 {
@@ -94,18 +94,35 @@ outline: none !important;
 }
 .desc{
     padding-top : 30px;
+    font-size: large;
+    font-family: serif;
+    padding-bottom: 50px;
 }
 .foot
 {
     width:100%;
-    height: 500px;
+    height: 400px;
     background-color:aliceblue;
 }
 .contact{
-    padding-left: 500px;
+    padding-left: 650px;
     padding-top: 50px;
 }
 .para1
 {
-    padding-left: 300px;
+    padding-left: 450px;
+}
+.copy
+{
+    width:100%;
+    padding-top: 30px;
+    padding-left:100px;
+    text-align: center;
+    color:darkslategray;
+}
+#abouthead
+{
+    color:blueviolet;
+    padding-top:30px;
+    padding-left: 500px;
 }
